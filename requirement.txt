@@ -1,0 +1,8 @@
+## Setup py requirements
+Flask==1.1.1
+Flask-Cors==3.0.8
+Flask-RESTful==0.3.7
+Werkzeug==0.15.2
+numpy==1.16.4
+pytesseract==0.2.7
+jsonpickle==1.2
