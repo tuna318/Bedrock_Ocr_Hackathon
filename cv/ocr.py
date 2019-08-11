@@ -1,0 +1,1 @@
+from recdetection.box_extractor import box_extraction
